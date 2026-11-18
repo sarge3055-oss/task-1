@@ -1,2 +1,2 @@
-# task-1
+# tasks
 python-ai task
